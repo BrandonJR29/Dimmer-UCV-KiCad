@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <title>Dimmer with Kicad</title>
-  <meta charset="UTF-8"/>
+  <meta charset="UTF-8">
 </head>
   
 <body>
